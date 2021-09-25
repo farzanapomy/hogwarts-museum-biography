@@ -1,0 +1,21 @@
+.card-img{
+    width: 180px;
+    height: 210px;
+}
+ /* .card-section{
+    background-color: wheat;
+    color: tomato;
+
+} */
+
+.cart-button{
+    background-color: tomato;
+    padding: 10px 25px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.card{
+    /* background-color: tomato; */
+}
