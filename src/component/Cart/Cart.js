@@ -9,7 +9,7 @@ const Cart = (props) => {
 
     return (
         <div className='cart-section'>
-            {/* <h3>Name: {cart.name}</h3> */}
+            <h3>Name: {cart.name}</h3>
             <h3>Total Added: {props.cart.length}</h3>
             <h4>Total Price : {total}</h4>
 
