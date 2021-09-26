@@ -19,7 +19,6 @@ const Item = () => {
         console.log(newCart)
     }
 
-
     return (
         <div className='item-container'>
             <div className="card-container">
@@ -30,8 +29,7 @@ const Item = () => {
                         addToCart={addToCart}
                     ></Card>)
                 }
-
-
+                
             </div>
             <div className="cart-container">
                 <Cart

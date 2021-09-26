@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './component/Header/Header';
 import Item from './component/Item/Item';
@@ -6,8 +5,8 @@ import Item from './component/Item/Item';
 function App() {
   return (
     <div className="App">
-        <Header></Header>
-        <Item></Item>
+      <Header></Header>
+      <Item></Item>
 
 
     </div>
