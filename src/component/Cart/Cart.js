@@ -4,15 +4,14 @@ import './Cart.css'
 // import icons 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee, faUser } from '@fortawesome/free-solid-svg-icons'
+
+// load ui 
 const Cart = (props) => {
     const { cart } = props;
     let total = 0;
-    let name = [];
     const cartIcons = <FontAwesomeIcon icon={faUser} />
     for (const card of cart) {
         total = total + card.salary
-        name = name + '\n' + card.name;
-
     }
 
     return (
