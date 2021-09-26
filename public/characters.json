@@ -70,13 +70,13 @@
         "price": 22855675
     },
     {
-        "name": "Moaning Myrtle",
+        "name": "Cho Chang",
         "family": {
-            "fatherName": "Mr Warren",
-            "motherName": "Mrs Warren"
+            "fatherName": "Mr Chang",
+            "motherName": "Mrs Chang"
         },
-        "img": "https://img.wattpad.com/cover/189004906-256-k366165.jpg",
-        "age": 20,
+        "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2019/04/Cho-Chang-Harry-Potter.jpg",
+        "age": 23,
         "price": 21855675
     },
     {
@@ -98,5 +98,25 @@
         "img": "https://i.ebayimg.com/images/g/nMMAAOSwl7lg7Xya/s-l300.jpg",
         "age": 21,
         "price": 24455675
+    },
+    {
+        "name": "Lord Voldemort",
+        "family": {
+            "fatherName": "Tom Riddle",
+            "motherName": "Merope Guant Riddle"
+        },
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Lordvoldemort.jpg",
+        "age": 41,
+        "price": 24454675
+    },
+    {
+        "name": "Professor Severus Snape",
+        "family": {
+            "fatherName": "Tobias Snape",
+            "motherName": "Eileen Snape née Prince"
+        },
+        "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/Ootp076.jpg",
+        "age": 41,
+        "price": 24454675
     }
 ]

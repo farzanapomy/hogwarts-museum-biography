@@ -1,13 +1,13 @@
 .card-img{
-    width: 180px;
-    height: 210px;
+    /* width: 100px; */
+    height: 230px;
     border: 1px solid gray;
     border-radius: 10px;
 }
  .card-section{
-     width: 300px;
-     margin-left: 20px;
-     padding: 5px;
+    width: 300px;
+    margin-left: 20px;
+    padding: 5px;
     background-color: #202020;
     color: rgba(243, 236, 235, 0.945);
 
