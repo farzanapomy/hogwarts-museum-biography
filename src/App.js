@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './component/Header/Header';
 import Item from './component/Item/Item';
+import 'bootstrap/dist/css/bootstrap.min.cssgit '
 
 function App() {
   return (
