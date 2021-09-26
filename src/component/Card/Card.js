@@ -1,9 +1,10 @@
+// import files 
 import React from 'react';
 import './Card.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faShoppingCart ,faFilm} from '@fortawesome/free-solid-svg-icons'
+import { faCoffee, faFilm } from '@fortawesome/free-solid-svg-icons'
 
-
+// load ui 
 const Card = (props) => {
     // console.log(props)
     const { name, img, family, age, salary } = props.card

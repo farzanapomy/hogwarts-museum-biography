@@ -1,13 +1,14 @@
 .cart-section{
     position: fixed;
+    padding: 5px;
     width: 300px;
     margin-left: 10px;
     background-color: #202020;
     border: 1px solid gray;
     color: rgba(243, 236, 235, 0.945);
 }
-.cart-name {
-    margin: 20px 50px;
-    display: block;
 
+.cart-section:hover{
+    background-color: #ffff;
+    color: #202020;
 }

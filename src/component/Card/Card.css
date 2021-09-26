@@ -12,8 +12,14 @@
     background-color: #ffff;
     color: #202020;
     border-radius: 10px;
+    line-height: 10px;
 }
 
+.card-section:hover{
+    background-color: #202020b0;
+    color: #ffff;
+    transition:ease;
+}
 .cart-button{
     background-color: #202020;
     color: #ffff;
