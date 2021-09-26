@@ -1,5 +1,5 @@
 [
-    {
+    {   
         "name": "Harry James Potter",
         "family": {
             "fatherName": "James Potter",
@@ -7,7 +7,8 @@
         },
         "img": "https://artinsights.com/wp-content/uploads/2013/11/20120919155542.jpg",
         "age": 19,
-        "price": 999945675
+        "salary": 999945675,
+        "id": 1
     },
     {
         "name": "Ron Weasley",
@@ -17,7 +18,8 @@
         },
         "img": "https://static.ironstudios.com/wp-content/uploads/2021/02/6-5.jpg",
         "age": 20,
-        "price": 888855675
+        "salary": 888855675,
+        "id": 2
     },
     {
         "name": "Hermione Granger",
@@ -27,7 +29,8 @@
         },
         "img": "https://pbs.twimg.com/media/Bx7DERwIUAASW8_.jpg",
         "age": 18,
-        "price": 8888545675
+        "salary": 8888545675,
+        "id": 3
     },
     {
         "name": "Luna Lovegood",
@@ -37,7 +40,8 @@
         },
         "img": "https://assets.teenvogue.com/photos/558d9ec88c6002ae2529ed72/master/w_600,h_400,c_limit/my-life-2015-05-luna-lovegood.jpg",
         "age": 20,
-        "price": 7788545675
+        "salary": 7788545675,
+        "id": 4
     },
     {
         "name": "Draco Malfoy",
@@ -47,7 +51,8 @@
         },
         "img": "https://i.pinimg.com/originals/4b/54/36/4b5436079b2179f776d5e3a38b926575.jpg",
         "age": 20,
-        "price": 6688545675
+        "salary": 66845675,
+        "id": 5
     },
     {
         "name": "Neville Longbottom",
@@ -57,7 +62,8 @@
         },
         "img": "https://therantingsofabookworm.files.wordpress.com/2016/12/nevillehbp.jpg",
         "age": 23,
-        "price": 128855675
+        "salary": 1288675,
+        "id": 6
     },
     {
         "name": "George Weasley",
@@ -67,7 +73,8 @@
         },
         "img": "https://img.wattpad.com/cover/189004906-256-k366165.jpg",
         "age": 22,
-        "price": 22855675
+        "salary": 22855675,
+        "id": 7
     },
     {
         "name": "Cho Chang",
@@ -77,7 +84,8 @@
         },
         "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2019/04/Cho-Chang-Harry-Potter.jpg",
         "age": 23,
-        "price": 21855675
+        "salary": 21855675,
+        "id": 8
     },
     {
         "name": "Moaning Myrtle",
@@ -87,7 +95,8 @@
         },
         "img": "https://i.pinimg.com/originals/03/62/68/036268c4586a0b64a2ba0631bbe68e77.jpg",
         "age": 20,
-        "price": 28455675
+        "salary": 284556475,
+        "id": 9
     },
     {
         "name": "Ginny Weasley",
@@ -97,7 +106,8 @@
         },
         "img": "https://i.ebayimg.com/images/g/nMMAAOSwl7lg7Xya/s-l300.jpg",
         "age": 21,
-        "price": 244554675
+        "salary": 24455755,
+        "id": 10
     },
     {
         "name": "Lord Voldemort",
@@ -107,7 +117,8 @@
         },
         "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Lordvoldemort.jpg",
         "age": 41,
-        "price": 244534675
+        "salary": 24453675,
+        "id": 11
     },
     {
         "name": "Professor Severus",
@@ -117,6 +128,7 @@
         },
         "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/Ootp076.jpg",
         "age": 41,
-        "price": 244524675
+        "salary": 45246375,
+        "id": 12
     }
 ]

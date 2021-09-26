@@ -1,13 +1,13 @@
 import React from 'react';
 import './Card.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faShoppingCart } from '@fortawesome/free-solid-svg-icons'
+import { faCoffee, faShoppingCart ,faFilm} from '@fortawesome/free-solid-svg-icons'
 
 
 const Card = (props) => {
-    console.log(props)
-    const { name, img, family, age, price } = props.card
-    const cartIcon = <FontAwesomeIcon icon={faShoppingCart} />
+    // console.log(props)
+    const { name, img, family, age, salary } = props.card
+    const cartIcon = <FontAwesomeIcon icon={faFilm} />
 
     return (
         <div className='card-section'>
@@ -19,10 +19,10 @@ const Card = (props) => {
             <p>Father :  {family.fatherName}</p>
             <p>Mother :  {family.motherName}</p>
             <p>Age : {age}</p>
-            <h4>Price : $ {price}</h4>
+            <h4>Salary : $ {salary}</h4>
             <button
                 onClick={() => props.addToCart(props.card)}
-                className='cart-button'>{cartIcon} Add To Cart</button>
+                className='cart-button'>{cartIcon} Cast details</button>
 
         </div>
     );

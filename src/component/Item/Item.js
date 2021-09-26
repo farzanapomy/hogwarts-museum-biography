@@ -24,7 +24,7 @@ const Item = () => {
             <div className="card-container">
                 {
                     cards.map(card => <Card
-                        key={card.price}
+                        key={card.salary}
                         card={card}
                         addToCart={addToCart}
                     ></Card>)

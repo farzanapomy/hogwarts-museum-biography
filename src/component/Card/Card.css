@@ -9,14 +9,15 @@
     width: 300px;
     margin-left: 20px;
     padding: 5px;
-    background-color: #202020;
-    color: rgba(243, 236, 235, 0.945);
+    background-color: #ffff;
+    color: #202020;
     border-radius: 10px;
 }
 
 .cart-button{
-    background-color: tomato;
-    padding: 10px 25px;
+    background-color: #202020;
+    color: #ffff;
+    padding: 10px 15px;
     border: 1px solid lightgray;
     border-radius: 5px;
     cursor: pointer;
