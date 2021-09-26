@@ -1,0 +1,8 @@
+.cart-section{
+    position: fixed;
+    width: 300px;
+    margin-left: 10px;
+    background-color: #202020;
+    border: 1px solid gray;
+    color: rgba(243, 236, 235, 0.945);
+}

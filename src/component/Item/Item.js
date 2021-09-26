@@ -34,10 +34,9 @@ const Item = () => {
 
             </div>
             <div className="cart-container">
-              { cart.map(cart => <Cart
+                <Cart
                     cart={cart}
                 ></Cart>
-                )}
             </div>
 
         </div>

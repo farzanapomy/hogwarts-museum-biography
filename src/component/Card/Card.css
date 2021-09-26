@@ -1,12 +1,17 @@
 .card-img{
     width: 180px;
     height: 210px;
+    border: 1px solid gray;
+    border-radius: 10px;
 }
- /* .card-section{
-    background-color: wheat;
-    color: tomato;
+ .card-section{
+     width: 300px;
+     margin-left: 20px;
+     padding: 5px;
+    background-color: #202020;
+    color: rgba(243, 236, 235, 0.945);
 
-} */
+}
 
 .cart-button{
     background-color: tomato;
