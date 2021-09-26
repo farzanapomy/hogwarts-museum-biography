@@ -97,7 +97,7 @@
         },
         "img": "https://i.ebayimg.com/images/g/nMMAAOSwl7lg7Xya/s-l300.jpg",
         "age": 21,
-        "price": 24455675
+        "price": 244554675
     },
     {
         "name": "Lord Voldemort",
@@ -107,7 +107,7 @@
         },
         "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Lordvoldemort.jpg",
         "age": 41,
-        "price": 24454675
+        "price": 244534675
     },
     {
         "name": "Professor Severus Snape",
@@ -117,6 +117,6 @@
         },
         "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/Ootp076.jpg",
         "age": 41,
-        "price": 24454675
+        "price": 244524675
     }
 ]

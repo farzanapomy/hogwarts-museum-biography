@@ -29,14 +29,13 @@ const Item = () => {
                         addToCart={addToCart}
                     ></Card>)
                 }
-                
+
             </div>
             <div className="cart-container">
                 <Cart
                     cart={cart}
-                ></Cart>
+                ></Cart>      
             </div>
-
         </div>
     );
 };

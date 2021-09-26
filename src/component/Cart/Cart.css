@@ -6,3 +6,8 @@
     border: 1px solid gray;
     color: rgba(243, 236, 235, 0.945);
 }
+.cart-name {
+    margin: 20px 50px;
+    display: block;
+
+}
