@@ -11,7 +11,7 @@
     padding: 5px;
     background-color: #202020;
     color: rgba(243, 236, 235, 0.945);
-
+    border-radius: 10px;
 }
 
 .cart-button{

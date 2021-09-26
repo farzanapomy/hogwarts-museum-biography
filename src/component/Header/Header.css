@@ -2,6 +2,8 @@
     color: tomato;
 }
 .header{
+    margin-top: 20px;
+    margin-bottom: 40px;
     color: wheat;
     line-height: 30px;
 }
